@@ -13,7 +13,7 @@ int main()
     hello("Clippy", 14);
     if(ageCheck(14))
     {
-        printf("You are old enough to work ar Office 97!");
+        printf("You are old enough to work at Office 97!");
     }
     else
     {
